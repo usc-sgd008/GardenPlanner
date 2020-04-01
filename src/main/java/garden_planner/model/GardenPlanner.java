@@ -12,6 +12,8 @@ import java.util.Scanner;
  *
  * This program can calculate the total wood required for the edges of the beds,
  * and the total soil required to fill the beds, plus the cost of those two things.
+ *
+ * @author Shane Delamont, Guy Pukallus and Zion Wihongi
  */
 public class GardenPlanner {
     public static final String GARDEN_PLANNER_VERSION = "Garden Planner v0.2";

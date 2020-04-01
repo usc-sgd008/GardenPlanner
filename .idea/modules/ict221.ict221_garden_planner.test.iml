@@ -20,6 +20,7 @@
     <orderEntry type="library" name="Gradle: org.apiguardian:apiguardian-api:1.0.0" level="project" />
     <orderEntry type="library" name="Gradle: org.opentest4j:opentest4j:1.1.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-engine:1.3.1" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="ict221.ict221_garden_planner.main" />
 </module>

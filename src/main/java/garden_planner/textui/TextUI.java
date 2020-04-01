@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * This analyses one garden design and prints the costs.
  *
- * @author Mark Utting
+ * @author Shane Delamont, Guy Pukallus and Zion Wihongi
  */
 public class TextUI {
 	private GardenPlanner planner;

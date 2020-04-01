@@ -15,5 +15,6 @@
     <orderEntry type="library" name="Gradle: org.openjfx:javafx-graphics:11.0.2" level="project" />
     <orderEntry type="library" name="Gradle: org.openjfx:javafx-base:mac:11.0.2" level="project" />
     <orderEntry type="library" name="Gradle: org.openjfx:javafx-base:11.0.2" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
   </component>
 </module>
